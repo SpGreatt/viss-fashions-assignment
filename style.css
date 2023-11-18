@@ -1,0 +1,205 @@
+body{
+    background-color: rgb(224, 224, 248);
+    overflow-x: hidden;
+    font-family: poppins;
+}
+.numb1{
+    margin: 5rem 7rem 5rem 12rem;
+    background-color: white;
+    justify-content: center;
+    padding: 1rem;
+    width: 65rem;
+    height: 46rem;
+
+}
+h3{
+    margin-left: 3rem;
+}
+.nav1,a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+}
+.nav1{
+    position: relative;
+    bottom: 2.37rem;
+    left: 14rem;
+    margin-left: 3rem;
+    word-spacing: 2.7rem;
+    font-weight: 400; 
+}
+.nav2{
+    position: relative;
+    bottom:4rem;
+    left: 50rem;
+    word-spacing:2.7rem;
+}
+.wk{
+    background-color:#E87A14;
+    color: white;
+    border: none;
+    width: 5.7rem;
+    height: 2.25rem;
+    top: 3.6rem;
+    border-radius: 1rem;
+}
+.model{
+    width: 26rem;
+    height: 29rem;
+    position: relative;
+    left: 32rem;
+    bottom: 2.6rem;
+}
+h4{
+    position: relative;
+    bottom: 16rem;
+    left: 3rem;
+    font-size: 0.9rem;
+    width: 14rem;
+    color: #44C3EBCC;
+
+}
+.write1{
+    position: relative;
+    bottom: 16rem;
+    left:3rem;
+    font-size: 2.5rem;
+    word-spacing: 0.5rem;
+    font-stretch: expanded;
+    width: 33rem;
+    
+}
+.btn-3{
+    position: relative;
+    bottom: 17rem;
+    left: 3rem;
+    /* width: 17rem; */
+    background-color:#E87A14;
+    border: none;
+    width: 5.7rem;
+    height: 2.25rem;
+    color: white;
+    border-radius: 1rem;
+
+}
+.bk-white{
+    background-color: white;
+    width: 27rem;
+    position: relative;
+    left: 6rem;
+    height: 15rem;
+    margin-top: 7rem;
+    border-top-left-radius: 1rem;
+    
+}
+.numb2{
+    background-image: url(img/Backdrop.jpg);
+    justify-content: center;
+    padding: 1rem;
+    width: 65rem;
+    height: 52rem;
+    margin: 5rem 7rem 5rem 12rem;
+}
+.logo{
+    position: relative;
+    left: 9rem;
+    padding-top: 2.5rem;
+    padding-left: 1rem;
+    }
+    .p-write{
+        position: relative;
+        bottom: 1.5rem;
+        left: 5rem;
+        font-weight: 500;
+        word-spacing: 0.2rem;
+        font-size: 1.3rem;
+    }
+    .p2{
+        font-size: 0.8rem;
+        position: relative;
+        bottom: 2rem;
+        padding: 0 2rem;
+    }
+    .pic-b{
+        background-color: none;
+        background-color: white;
+        height: 27.15rem;
+        padding-left: 2rem;
+        border-bottom-left-radius: 1rem;
+        position: relative;
+        right: 0.01rem;
+        
+        
+        
+    }
+    .item21{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+    }
+    .item3{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+    }
+    .item4{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+        
+    }
+    .item5{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+
+        
+    }
+    .item6{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+        
+    }
+    .item7{
+        width: 20rem;
+        margin-left: 1rem;
+        border-radius: 1.4rem;
+        border-style: 0.1rem;
+        margin-bottom: 1rem;
+        height: 3rem;
+        
+        
+    }
+    .item-2{
+        height: 1.5rem;
+    }
+    .meav{
+        position: relative;
+        bottom: 51rem;
+        width: 27rem;
+        left: 45rem;
+        height: 39.8rem;
+        border-top-right-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+    }
